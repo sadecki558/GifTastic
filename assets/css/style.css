@@ -1,0 +1,86 @@
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+}
+h2 {
+    font-size: 2em;
+}
+
+header {
+    background-color: teal;
+    padding: 4%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: white;
+    text-align: center;
+}
+
+.addSection {
+    text-align: center;
+    background-color: white;
+    height: 150px;
+    width: 100%;
+    padding: 50px;
+    margin-top: 5%;
+    margin-right: 5%;
+  
+    border: 2px;
+    border-color: teal;
+    border-style: dashed;
+}
+
+.directions {
+    font-weight: bold;
+    color: teal;
+    position: relative;
+}
+
+.searchBox {
+    border-style: solid;
+    border-color: teal;
+    height: 30px;
+    border-width: 3px;
+    position: relative;
+}
+
+.add_button {
+    border-style: solid;
+    border-color: teal;
+    border-width: 2px;
+    height: 30px;
+    display: inline-block;
+    color: white;
+    background-color: teal;
+    position: relative;
+    border-radius: 25px;
+
+}
+
+button {
+    font-weight: bold;
+    border-style: solid;
+    border-color: teal;
+    border-width: 2px;
+    background-color: teal;
+    height: 30px;
+    color: white;
+    margin: 5px;
+    border-radius: 25px;
+}
+
+.rating {
+    padding-bottom: 5px;
+    font-weight: bold;
+    color: teal;
+    width: 125px;
+}
+
+.buttonSection {
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    min-height: 150px;
+    padding: 50px;
+    margin: none;
+}
+
